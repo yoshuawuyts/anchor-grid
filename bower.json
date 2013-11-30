@@ -1,0 +1,23 @@
+{
+  "name": "anchor-grid",
+  "version": "0.1.0",
+  "homepage": "https://github.com/yoshuawuyts/anchor-grid",
+  "authors": [
+    "Yoshua Wuyts <yoshuawuyts@gmail.com>"
+  ],
+  "description": "Flex based grid",
+  "main": "grid.styl",
+  "keywords": [
+    "flexbox",
+    "flex",
+    "grid"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
