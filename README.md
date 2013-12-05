@@ -1,4 +1,10 @@
-# anchor-grid [<img src="http://benschwarz.github.io/bower-badges/badge@2x.png" width="130" height="30">](http://sindresorhus.com/bower-components/#!/search/anchor-grid)
+# anchor-grid
 
+Flex based grid. Part of [anchor-css](https://github.com/yoshuawuyts/anchor-css)
 
-Flex based grid
+## Inspiration
+- [Solved by flexbox](http://philipwalton.github.io/solved-by-flexbox/)
+- [Topcoat grid](https://github.com/topcoat/grid)
+
+## License
+MIT © [Yoshua Wuyts](yoshuawuyts.com)
